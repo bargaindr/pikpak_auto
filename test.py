@@ -32,6 +32,7 @@ from bs4 import BeautifulSoup
 
 
 
+
 def r(e, t):
     n = t - 1
     if n < 0:
